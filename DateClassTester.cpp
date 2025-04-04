@@ -1,3 +1,4 @@
+//This file tests the date class which is described in detail in the date.h file
 #pragma once
 #include "Date.h"
 #include <iostream>
